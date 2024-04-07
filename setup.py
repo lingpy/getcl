@@ -3,7 +3,7 @@ import codecs
 
 setup(
     name='getcl',
-    version='0.1.dev0',
+    version='0.1',
     license='MIT',
     description='Python Package for the Mapping of Conceptlists',
     long_description=codecs.open('README.md', "r", "utf-8").read(),
@@ -17,7 +17,7 @@ setup(
         "Programming Language :: Python :: 3.9",
     ],
     author='Johann-Mattis List',
-    author_email='mattis_list@eva.mpg.de',
+    author_email='mattis.list@uni-passau.de',
     url='https://github.com/lingpy/getcl/',
     keywords='word prediction',
     packages=find_packages(where='src'),
