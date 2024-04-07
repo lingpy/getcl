@@ -3,7 +3,7 @@ import codecs
 
 setup(
     name='getcl',
-    version='0.1',
+    version='0.2.dev0',
     license='MIT',
     description='Python Package for the Mapping of Conceptlists',
     long_description=codecs.open('README.md', "r", "utf-8").read(),
